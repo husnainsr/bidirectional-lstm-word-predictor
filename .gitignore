@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Model files
+*.model
+*.pth
+*.h5
+*.ckpt
+*.pb
+*.onnx
+*.weights
+*.pt
+*.bin
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
