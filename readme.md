@@ -34,14 +34,6 @@ Ensure you have `pip` installed. Then, install the required packages:
 pip install -r requirements.txt
 ```
 
-**Note:** The `requirements.txt` 
-```text
-nest-asyncio==1.6.0
-python-dateutil==2.9.0.post0
-pytz==2024.2
-requests==2.32.3
-websockets==13.1
-```
 
 
 ## 📊 Data Preprocessing
